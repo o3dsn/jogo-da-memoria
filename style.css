@@ -51,3 +51,7 @@ body {
     height: 6rem;
 }
 
+.open {
+    background-color: red;
+}
+
